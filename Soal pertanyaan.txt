@@ -1,0 +1,13 @@
+TUGAS
+
+1. Buat repositori nama *tugas-github-[nama]*
+contoh : "tugas-github-vincent"
+2. Kerjakan soal yang diberikan
+3. Add, commit, push
+
+SOAL :
+1. Apa tujuan kalian mengikuti bootcamp?
+
+2. Apa rencana ke depan kalian setelah mengikuti bootcamp?
+
+3. Sebutkan jenis tipe data primitif?

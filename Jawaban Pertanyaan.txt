@@ -1,0 +1,14 @@
+1. Tujuan ikut bootcamp adalah untuk mencari kerja
+2. Rencana kedepan setelah bootcamp ada beberapa rencana
+    a. lulus bootcamp lanjut kerja,
+    b. setelah mendapatkan pekerjaan saya sesuaikan dulu kegiatan kerja sejauh mana, liburnya bagaimana, dll
+    c. jika menurut saya pekerjaan tersebut memiliki waktu libur yang sesuai dengan pemerintah (sabtu,minggu) maka saya akan mendaftar kuliah s2 kelas karyawan
+    d. selanjutnya saya coba seimbangkan pekerjaan dan pendidikan seperti keadaan saya ketika kuliah S1 (kerjaan lancar, sekolah lancar)
+3. Tipe data primitif yaitu sebagai berikut:
+    a. Number        : 1,0.5,-1,-1.25,3.05
+    b. String        : "a","abc","A",'AbC!@#$%','123'
+    c. Boolean       : true, false
+    d. Object        : variable yang memiliki key
+    e. undefined
+    f. null
+    

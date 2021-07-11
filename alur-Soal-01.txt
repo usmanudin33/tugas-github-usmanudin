@@ -1,0 +1,25 @@
+mohon maaf ka, kayaknya logika saya masih tradisional deh, hehe
+jadi nangkepnya gini.
+
+dari soal nomor 1, saya sudah memilik batasan bahwa data yang dibutuhkan hanya 4,
+tidak begitu banyak, sehingga saya memilih cara yang saya pahami.
+
+1. user atau seseorang akan memasukan angka, 
+tapi bagaimana dia tau bahwa yang harus diinput adalah angka.?
+
+
+2. biar user itu memasukan angka, berarti harus ada info terlebih dahulu bahwa yang harus diinputkan adalah angka
+berarti ada semacam pesan.
+
+3. user telah memasukan angkanya, apa selanjutnya?
+4. angkanya harus dijumlahkan, 
+sebenernya biar lebih meyakinkan mesin/aplikasi yang dibuat, aplikasi ini harus tau kondisi bahwa data yang dimasukan user tersebut jenisnya number atau string
+sintax apa yang dipakai..?
+
+bagaimana angka tersebut dijumlahkan sementara datanya dimasukan secara bersamaan
+berarti setiap digit angka harus dijumlahkan dengan digit angka sebelahnya/setelahnya
+ada ngga ya sintax yang bisa langsung menjumlahkan deret angka tersebut?
+kalau ada kan bisa lebih cepat.
+tapi saya coba yang manual dulu deh..
+
+5. hasil dari penjumlahan tersebut ditampilkan.
